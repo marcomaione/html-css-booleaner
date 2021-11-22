@@ -1,0 +1,14 @@
+
+.pattern{
+    background-image:url("img/pattern.png") ;
+background-color: rgb(60, 145, 243);
+background-size: 300px;
+padding-top: 20px;
+font-family: 'Roboto', sans-serif;
+}
+#logo{
+    width: 200px;
+}
+.giallo{
+    background:#FFFF00; color: #161616
+}
