@@ -1,6 +1,6 @@
 
 .pattern{
-    background-image:url("img/pattern.png") ;
+background-image:url("img/pattern.png") ;
 background-color: rgb(60, 145, 243);
 background-size: 300px;
 padding-top: 20px;
@@ -12,3 +12,37 @@ font-family: 'Roboto', sans-serif;
 .giallo{
     background:#FFFF00; color: #161616
 }
+table {
+    width: 100%;
+}
+
+th {
+    background-color: rgb(86, 193, 235);
+    padding: 10px 15px;
+    border: none;
+    width: 33%;
+}
+
+td {
+    background-color: rgb( rgb(161, 203, 236));
+}
+
+tr:nth-child(odd) {
+
+}
+
+th {
+    text-align: left;
+}
+
+th:nth-child(1),
+th:nth-child(2) {
+    width: 25%;
+}
+
+
+
+th:nth-child(3) {
+    width: 50%;
+}
+
